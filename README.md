@@ -8,8 +8,11 @@ så lad os bruge vores evner og gør næste helvede en del _smartere_
 
 Det der er i udvikling pt er: bestillings app fra holdledere til snacksupply (f.eks. ved afhentning af frugt, vand og snacks)
 
+<img width="1281" height="601" alt="CPHAppMock" src="https://github.com/user-attachments/assets/0513269a-dced-43a8-b3e0-00f11be78a36" />
+
 Fordi vi ikke vil andet end højest nødvendig info i databaserne, skal vi fokusere på simpel formidling og simpel registreringBla. har en teamlead et login givet ved et meetup ved snacksupply, hvor de registreres med navn fra en liste fra adminstrationen, og så i systemet via qr kode.
 	ingen tlfnr, email eller lignende, kun navn og random login bundet til qr kode. 
+
 
 Snacksupply teamlead får brugerspecifik mulighed for at generere denne qr kode, når de har en vagt, hvor en teamlead møder og beder om login. 
 
