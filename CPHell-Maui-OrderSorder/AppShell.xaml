@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="CPHell_Maui_OrderSorder.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:CPHell_Maui_OrderSorder"
+    xmlns:views="clr-namespace:CPHell_Maui_OrderSorder.Views"
+    Title="CPHell_Maui_OrderSorder">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate views:LoginPage}" />
+    <ShellContent Route="FrontPage" ContentTemplate="{DataTemplate views:FrontPage}" />
+    <ShellContent Route="CreateOrderPage" ContentTemplate="{DataTemplate views:CreateOrderPage}" />
+
+</Shell>

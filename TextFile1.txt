@@ -1,0 +1,63 @@
+
+Vejledning og dokumentation af CPHell Order-app
+Lavet af: Christine L. Larsen, Lucas N. Rosenørn Due og Jack ..?
+2025
+
+Indeholder: 
+Dokumentation og guide til løsningen
+Løsningens struktur og diagrammer
+Forslag til alternativer
+AI prompts + indikator i koden på brugen af AI
+
+
+
+Status: Historik på bestillinger gennemført - brugerspecifik adgang (vises kun som en page til brugertype: SnackSupplier eller Admin(kontorfolket))
+Receiver: Kun brugertypen SnackSupplier kan være Receiver og modtage + godkende en order fra en teamlead (normal user)
+
+
+
+Optimal løsningsstruktur
+
+Properties: 
+	launchSettings.json
+Platforms(Do not touch):
+	IOS
+	Android
+	MacCatalyst
+	Tizen
+	Windows
+Resources: 
+	AppIcon
+	Fonts
+	Images
+	Raw
+	Splash
+	Styles
+
+Controls
+	UserInterface
+	Handlers
+	Layout
+		Login(code)
+		Order(code)
+		Receiver(code)
+		Status(code)
+	Pages
+	Views
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
