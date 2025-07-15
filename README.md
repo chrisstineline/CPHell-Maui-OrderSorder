@@ -4,7 +4,7 @@
 # KLADER PÅ ALLE DEMON CODERS OG TECHSATANICS
 
 **Copenhell** er drevet af **frivillige** der alle elsker det **helvede** vi bygger
-så lad os bruge vores evner og gør næste helvede en del _ _smartere_ _
+så lad os bruge vores evner og gør næste helvede en del _smartere_
 
 Det der er i udvikling pt er: bestillings app fra holdledere til snacksupply (f.eks. ved afhentning af frugt, vand og snacks)
 
