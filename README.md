@@ -20,7 +20,7 @@ Løsningen laves i maui, c#, sql
 Løsningen er public repo på github
 Løsningen er lavet specifikt til copenhell, men free to use 
 	
-	<img width="514" height="560" alt="image" src="https://github.com/user-attachments/assets/f3624b45-c4ca-4226-932d-0aca4ac057ed" />
+<img width="514" height="560" alt="image" src="https://github.com/user-attachments/assets/f3624b45-c4ca-4226-932d-0aca4ac057ed" />
 
 
 Fordi vi også ønsker at gøre det til en læringsoplevelse at deltage, har vi også bestemt at processer og dokumentation skal være i fokus
